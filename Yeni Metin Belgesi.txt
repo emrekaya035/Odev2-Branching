@@ -1,1 +1,1 @@
-bu ilk gönderim. Branch yok.
+bu ikinci gönderim. Branch var ve adı "feature1".
