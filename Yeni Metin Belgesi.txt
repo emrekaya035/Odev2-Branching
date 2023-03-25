@@ -1,1 +1,1 @@
-bu ikinci gönderim. Branch var ve adı "feature1".
+bu üçüncü gönderim. 2 tane branch var ve adları "feature1" ve "feature2".
